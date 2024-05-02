@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.10)
+project(base VERSION 1.0)
+set(CMAKE_CXX_STANDARD 23)
+set(CMAKE_CXX_STANDARD_REQUIRED True)
+configure_file(config.hpp.in config.hpp)

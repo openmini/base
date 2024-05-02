@@ -578,6 +578,10 @@
     [
       "0b92ad0b-9d78-48b8-8c77-5cb058beae24",
       "Root"
+    ],
+    [
+      "18be3323-cb23-4878-88ec-dda0f06ecbcf",
+      "MODULE_BUS"
     ]
   ],
   "text_variables": {}
