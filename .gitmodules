@@ -1,3 +1,6 @@
 [submodule "design/brand"]
 	path = design/brand
 	url = https://github.com/openmini/brand
+[submodule "code/api"]
+	path = code/api
+	url = https://github.com/openmini/api
